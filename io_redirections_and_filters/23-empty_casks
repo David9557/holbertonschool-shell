@@ -1,2 +1,2 @@
 #!/bin/bash
- . -r  " "
+find . -type df -and -empty
