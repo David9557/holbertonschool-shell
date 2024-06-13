@@ -1,2 +1,2 @@
 #!/bin/bash
-allias p=git push
+allias p="git push"
