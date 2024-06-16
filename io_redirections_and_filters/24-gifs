@@ -1,0 +1,2 @@
+#!/bin/bash
+find . ~ -Type f -Name "*.Gif" -Exec ls-n | Rev | Cut -d/ -f1
